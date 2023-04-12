@@ -18,7 +18,7 @@ I am currently in my second year of undergrad studying computer science at Bosto
 
 ## My Github Stats
 ![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanh910&theme=midnight-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanh910&theme=midnight-purple&layout=compact)](https://github.com/thanh910/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact)](https://github.com/thanh910/github-readme-stats)
 
 
 <!--
