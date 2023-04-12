@@ -1,7 +1,7 @@
 ## Hi, I'm Thanh 👋
 
 
-###I am an aspiring Software Engineer and Full-Stack Web Developer
+### I am an aspiring Software Engineer and Full-Stack Web Developer
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh910/)
 
@@ -17,7 +17,7 @@ Personal Site:
 Instagram:
 
 ## My Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=midnight-purple&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanh910&theme=midnight-purple&show_icons=true)
 
 
 <!--
