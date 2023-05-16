@@ -18,6 +18,7 @@ I'm currently learning and growing my skillset in software development, taking e
 ## 📚 My Skills
 
 These are some languages and tools I use:
+
 C++ | Python| Java| JavaScript | HTML | CSS | React | Node.js | Express.js | Firebase | Git
 
 
@@ -25,6 +26,7 @@ C++ | Python| Java| JavaScript | HTML | CSS | React | Node.js | Express.js | Fir
 
 ## 📫 How to Reach Me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh910/)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thanhthynh/)
+
 📧 Feel free to email me with any questions, or simply to say hello. I would love to hear from you!
 
 ## My Github Stats
