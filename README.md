@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm [Your Name]! 🚀
+# 👋 Hi there, I'm Thanh! 🚀
 
-![banner](https://place-hold.it/900x300/ffffff/000000?text=Your+Name+Software+Engineer&bold&fontsize=35)
+![banner](https://place-hold.it/900x300/ffffff/000000?text=Thanh+Software+Engineer&bold&fontsize=35)
 
 Welcome to my little corner of GitHub! I'm a young, budding software engineer, eager to explore the vast world of tech. I'm super passionate about coding, and I'm here to make a significant impact in the tech world. My journey has only just begun, and I'm super excited about what the future holds! 🌱
 
@@ -11,7 +11,7 @@ I'm currently learning and growing my skillset in software development, taking e
 - 🎓 I'm a Computer Science student
 - 🚀 Learning and developing software solutions
 - 🌱 Currently mastering: Python, JavaScript, and React
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/[your username])
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/thanh910)
 - 🎯 Future Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games and read tech blogs in my free time!
 
