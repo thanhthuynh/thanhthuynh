@@ -1,19 +1,19 @@
 # 👋 Hi there, I'm Thanh! 🚀
 
-![banner](https://place-hold.it/900x300/ffffff/000000?text=Thanh+Software+Engineer&bold&fontsize=35)
-
 Welcome to my little corner of GitHub! I'm a young, budding software engineer, eager to explore the vast world of tech. I'm super passionate about coding, and I'm here to make a significant impact in the tech world. My journey has only just begun, and I'm super excited about what the future holds! 🌱
+
 
 ## 🌟 About Me
 
 I'm currently learning and growing my skillset in software development, taking each day as a new challenge and a new opportunity to learn something exciting. I love coding because it feels like solving a new puzzle every day, and when the pieces come together, there's no better feeling! 🎉
 
-- 🎓 I'm a Computer Science student
+- 🎓 I'm a Computer Science student at Boston University
 - 🚀 Learning and developing software solutions
-- 🌱 Currently mastering: Python, JavaScript, and React
+- 🌱 Currently mastering: C++, JavaScript, and React
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/thanh910)
-- 🎯 Future Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play video games and read tech blogs in my free time!
+- 🎯 Future Goals: Develop a personal portfolio website from scratch
+- ⚡ Fun fact: I love to play Valorant and read tech blogs in my free time!
+
 
 ## 📚 My Skills
 
@@ -22,12 +22,11 @@ These are some languages and tools I use:
 C++ | Python| Java| JavaScript | HTML | CSS | React | Node.js | Express.js | Firebase | Git
 
 
-
-
 ## 📫 How to Reach Me 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh910/)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thanhthynh/)
 
 📧 Feel free to email me with any questions, or simply to say hello. I would love to hear from you!
+
 
 ## My Github Stats
 ![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanh910&theme=midnight-purple&show_icons=true)
