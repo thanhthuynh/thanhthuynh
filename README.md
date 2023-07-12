@@ -8,8 +8,8 @@ Welcome to my little corner of GitHub! I'm a young, budding software engineer, e
 I'm currently learning and growing my skillset in software development, taking each day as a new challenge and a new opportunity to learn something exciting. I love coding because it feels like solving a new puzzle every day, and when the pieces come together, there's no better feeling! 🎉
 
 - 🎓 I'm a Computer Science student at Boston University
-- 🚀 Learning and developing software solutions
-- 🌱 Currently mastering: C++, JavaScript, and React
+- 🚀 Currently working as a Software Engineer Intern at CIDAR Lab
+- 🌱 Practicing LeetCode and learning C++, JavaScript, TypeScript, and React in my free time
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/thanh910)
 - 🎯 Future Goals: Develop a personal portfolio website from scratch
 - ⚡ Fun fact: I love to play Valorant and read tech blogs in my free time!
@@ -27,7 +27,7 @@ C++ | Python| Java| JavaScript | HTML | CSS | React | Node.js | Express.js | Fir
 
 Email: thanhthuynh7@gmail.com or thanh910@bu.edu
 
-📧 Feel free to email me with any questions, or simply to say hello. I would love to hear from you!
+📧 Feel free to email me with any questions or connect with me on social media and say hello. I would love to hear from you!
 
 
 ## My Github Stats
