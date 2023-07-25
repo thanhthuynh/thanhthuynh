@@ -31,7 +31,7 @@ Email: thanhthuynh7@gmail.com or thanh910@bu.edu
 
 
 ## My Github Stats
-![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanh910&theme=midnight-purple&show_icons=true)
+![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhthuynh&theme=midnight-purple&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact)](https://github.com/thanhthuynh/github-readme-stats)
 
 That's it from me! Remember, every day is a new opportunity to learn something new. Happy coding, everyone! 🎉
