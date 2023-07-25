@@ -23,7 +23,7 @@ C++ | Python| Java| JavaScript | HTML | CSS | React | Node.js | Express.js | Fir
 
 
 ## 📫 How to Reach Me 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanh910/)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thanhthynh/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanhthuynh/)    [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/thanhthynh/)
 
 Email: thanhthuynh7@gmail.com or thanh910@bu.edu
 
@@ -32,7 +32,7 @@ Email: thanhthuynh7@gmail.com or thanh910@bu.edu
 
 ## My Github Stats
 ![Thanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanh910&theme=midnight-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact)](https://github.com/thanh910/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=midnight-purple&layout=compact)](https://github.com/thanhthuynh/github-readme-stats)
 
 That's it from me! Remember, every day is a new opportunity to learn something new. Happy coding, everyone! 🎉
 
