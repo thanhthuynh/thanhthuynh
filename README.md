@@ -12,7 +12,7 @@ I'm currently learning and growing my skillset in software development, taking e
 - 🌱 Practicing LeetCode and learning C++, JavaScript, TypeScript, and React in my free time
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/thanh910)
 - 🎯 Future Goals: Develop a personal portfolio website from scratch
-- ⚡ Fun fact: I love to play Valorant and read tech blogs in my free time!
+- ⚡ Fun fact: I adopted a one-year-old cat named Loki!
 
 
 ## 📚 My Skills
