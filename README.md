@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Thanh! 🚀
 
-Welcome to my little corner of GitHub! I'm a young, budding software engineer, eager to explore the vast world of tech. I'm super passionate about coding, and I'm here to make a significant impact in the tech world. My journey has only just begun, and I'm super excited about what the future holds! 🌱
+Welcome to my little corner of GitHub! I'm a young, budding software engineer, eager to explore the vast world of tech. I'm super passionate about coding, and I'm here to make a significant impact in the tech world. My journey has only just begun, and I'm very excited about what the future holds! 🌱
 
 
 ## 🌟 About Me
