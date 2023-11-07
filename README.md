@@ -10,7 +10,7 @@ I'm currently learning and growing my skillset in software development, taking e
 - 🎓 I'm a Computer Science student at Boston University
 - 🚀 Currently working as a Software Engineer Intern at CIDAR Lab
 - 🌱 Practicing LeetCode and learning C++, JavaScript, TypeScript, and React in my free time
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/thanhthuynh)
+- 👨‍💻 Most of my projects are available here on [GitHub](https://github.com/thanhthuynh?tab=repositories)
 - 🎯 Future Goals: Develop a personal portfolio website from scratch
 - ⚡ Fun fact: I adopted a one-year-old cat named Loki!
 
