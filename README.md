@@ -36,6 +36,8 @@ Email: thanhthuynh7@gmail.com or thanh910@bu.edu
 
 That's it from me! Remember, every day is a new opportunity to learn something new. Happy coding, everyone! 🎉
 
+- Updated November 2023
+
 <!--
 **thanh910/thanh910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
